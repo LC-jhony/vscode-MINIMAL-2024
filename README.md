@@ -16,18 +16,17 @@ It's focused on minimizing distractions, reducing mouse usage and optimizing the
   ```bash
   brew install visual-studio-code
  ```
-2. Install [Apc Customize UI++ UI](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension) theme: alternativo
+2. Install [Apc Customize UI++ UI](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension) theme: 
 
-3. Install [Github Light Theme](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light) theme: alternativo
 
-5. Install [Github Dark Easy](https://marketplace.visualstudio.com/items?itemName=mubaidr.github-dark-easy) extension:
-6. Install [Min Theme](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme) theme: use and configuration   
+6. Install [Min Theme](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme) theme: use and ligth
+7. Install [Min Theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) theme: use and DARK   
 
-9. 8. Install [Symbols Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols) extencion:
-10. Install [Run on Save](https://marketplace.visualstudio.com/items?itemName=emeraldwalk.RunOnSave) extencion for laravel paint:
+8. Install [Symbols Icons](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols) extencion:
 
-5. Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font:
-6. Install [Victor Mono](https://rubjo.github.io/victor-mono/VictorMonoAll.zip) Font:
+
+5. Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font: USADO
+6. Install [Victor Mono](https://rubjo.github.io/victor-mono/VictorMonoAll.zip) Font: ALTERNATIVO
 
 7. Copy the contents of [`src/settings.json`](src/settings.json) to your settings file (search **Preferences: Open Settings (JSON)** using the Command Palette).
 
