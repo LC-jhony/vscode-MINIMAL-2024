@@ -20,8 +20,6 @@
     "editor.occurrencesHighlight": "off",
     "editor.renderLineHighlight": "none",
     "editor.renderWhitespace": "none",
-    "editor.scrollbar.horizontalScrollbarSize": 8,
-    "editor.scrollbar.verticalScrollbarSize": 8,
     "terminal.integrated.fontFamily": "Fira Code",
     "terminal.integrated.cursorStyle": "line",
     "terminal.integrated.enableMultiLinePasteWarning": "never",
