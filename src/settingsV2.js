@@ -1,17 +1,15 @@
 {
     "apc.electron": {
-        "titleBarStyle": "hiddenInset",
-        "trafficLightPosition": {
-            "x": 11,
-            "y": 10
-        },
         "frame": false,
+        "titleBarStyle": "hiddenInset",
     },
     "apc.header": {
-        "height": 36
+        "height": 45,
+        "fontSize": 15,
     },
     "apc.listRow": {
-        "height": 24
+        "height": 24,
+        "fontSize": 15
     },
     "apc.stylesheet": {
         ".title-label > h2": "display: none",
@@ -22,64 +20,58 @@
         ".split-view-view:first-child .pane-header": "display: none !important;",
         ".monaco-list-row": "border-radius: 4px;",
         ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;",
-        ".decorationsOverviewRuler": "display: none;",
-        ".editor-group-container .title *": "display: none;",
-        ".editor-group-container .title": "pointer-events: none;",
         ".editor-group-container.empty": "-webkit-app-region: drag;",
         ".monaco-editor .scroll-decoration": "box-shadow: none;"
     },
     "apc.activityBar": {
-     
         "hideSettings": true,
-        "size": 48,
+        "size": 58,
         "itemMargin": 8,
         "itemSize": 32
     },
-    "window.titleBarStyle": "native",
+    "apc.font.family": "Inter",
+    "breadcrumbs.enabled": false,
+    "editor.minimap.enabled": false,
     "editor.bracketPairColorization.enabled": false,
     "editor.colorDecorators": false,
-    "editor.fontFamily": "Fira code",
+    "editor.fontFamily": "JetBrains Mono",
     "editor.fontLigatures": true,
     "editor.fontWeight": "400",
     "editor.fontSize": 16,
-    "editor.lineHeight": 45,
+    "editor.lineHeight": 48,
+    "editor.formatOnSave": true,
     "editor.glyphMargin": false,
     "editor.gotoLocation.multipleDeclarations": "goto",
     "editor.gotoLocation.multipleDefinitions": "goto",
     "editor.gotoLocation.multipleImplementations": "goto",
     "editor.gotoLocation.multipleReferences": "goto",
     "editor.gotoLocation.multipleTypeDefinitions": "goto",
+    "editor.parameterHints.enabled": false,
+    "editor.renderLineHighlight": "gutter",
     "editor.guides.indentation": false,
     "editor.hideCursorInOverviewRuler": true,
-    "editor.lineNumbers": "off",
+    "editor.lineNumbers": "on",
     "editor.matchBrackets": "near",
-    
-    "editor.occurrencesHighlight": "off",
-    "editor.renderLineHighlight": "none",
     "editor.renderWhitespace": "none",
-
-    "terminal.integrated.fontFamily": "Fira Code",
+    "editor.scrollbar.horizontalScrollbarSize": 0,
+    "editor.scrollbar.verticalScrollbarSize": 0,
     "terminal.integrated.cursorStyle": "line",
-    "terminal.integrated.enableMultiLinePasteWarning": "never",
-    "editor.scrollbar.horizontalScrollbarSize": 4,
-    "editor.scrollbar.verticalScrollbarSize": 4,
-    "symbols.hidesExplorerArrows": false,
-    "workbench.colorTheme": "Min Dark",
-    "workbench.iconTheme": "symbols",
-    "workbench.sideBar.location": "right",
-    "workbench.statusBar.visible": false,
-    "editor.minimap.enabled": false,
-    "breadcrumbs.enabled": false,
-    "workbench.layoutControl.enabled": false,
-    "window.menuBarVisibility": "compact",
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.lineHeight": 1.85,
     "files.autoSave": "afterDelay",
+    "symbols.hidesExplorerArrows": false,
+    "window.titleBarStyle": "native",
+    "window.customTitleBarVisibility": "never",
+    "workbench.editor.enablePreview": false,
+    "symbols.folders.associations": {
+        "{folder name}": "folder-red-outline",
+        "entities": "folder-assets",
+        "infra": "folder-app",
+        "schemas": "folder-purple"
+    },
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.colorTheme": "Github Light Theme - Gray",
     "window.commandCenter": false,
-    "tailwindCSS.emmetCompletions": true,
-    "tailwindCSS.experimental.classRegex": [
-        [
-            "tv\\(([^)]*)\\)",
-            "[\"'`]([^\"'`]*).*?[\"'`]"
-        ]
-    ],
-    "editor.stickyScroll.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "symbols",
 }
