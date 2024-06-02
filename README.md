@@ -4,6 +4,10 @@
 <p align="center">
   <img src="screenshots/empty-light.png#gh-light-mode-only" width="400">
 </p>
+settingsV2
+<p align="center">
+  <img src="screenshots/code.png#gh-light-mode-only" width="400">
+</p>
 
 # Minimal Code
 
