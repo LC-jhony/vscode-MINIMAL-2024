@@ -31,8 +31,9 @@ It's focused on minimizing distractions, reducing mouse usage and optimizing the
 
 5. Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font: USADO
 6. Install [Victor Mono](https://rubjo.github.io/victor-mono/VictorMonoAll.zip) Font: ALTERNATIVO
+7. Install [Geist Mono](https://vercel.com/font) Font: ALTERNATIVO
 
-7. Copy the contents of [`src/settings.json`](src/settings.json) to your settings file (search **Preferences: Open Settings (JSON)** using the Command Palette).
+8. Copy the contents of [`src/settings.json`](src/settings.json) to your settings file (search **Preferences: Open Settings (JSON)** using the Command Palette).
 
 ## Screenshots
 
